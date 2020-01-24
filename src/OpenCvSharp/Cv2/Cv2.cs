@@ -1,6 +1,6 @@
 ﻿using System;
 
-// ReSharper disable InconsistentNaming
+// ReSharper disable Inconsistent Naming
 
 namespace OpenCvSharp
 {
